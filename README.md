@@ -20,7 +20,7 @@
 </ul>
 
 	
-<h2>Check my website @ <a href="https://portugalsoul.pt" target="_blank"> PORTUGAL SOUL </a>  NG5 </a>  </h2>
+<h2>Check my website @ <a href="https://portugalsoul.pt" target="_blank"> PORTUGAL SOUL </a>  </h2>
 
 <p>All rights reserved to Portugal soul.<br/>
 Developed and designed by Ensaio de cor.</p>
